@@ -1,0 +1,727 @@
+titulo,ubicacion,sector,precio_usd,area_m2,habitaciones,banos,parqueaderos,antiguedad_anos
+"Casa/Dep en Venta de 214m² en La Carolina, Quito",Quito,La Carolina,300200.0,214.7,3,4,2,7
+"Casa/Dep en Venta de 165m² en Tumbaco, Quito",Quito,Tumbaco,188800.0,165.4,3,3,2,16
+"Casa/Dep en Venta de 309m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,272500.0,309.3,5,4,2,28
+"Casa/Dep en Venta de 151m² en La Carolina, Quito",Quito,La Carolina,238700.0,151.7,3,3,2,1
+"Casa/Dep en Venta de 196m² en Centro Histórico, Quito",Quito,Centro Histórico,132300.0,196.3,3,4,2,2
+"Casa/Dep en Venta de 124m² en El Batán, Quito",Quito,El Batán,168300.0,124.1,3,2,1,3
+"Casa/Dep en Venta de 298m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,489200.0,298.1,5,5,2,5
+"Casa/Dep en Venta de 147m² en Tumbaco, Quito",Quito,Tumbaco,198700.0,147.6,4,3,2,1
+"Casa/Dep en Venta de 144m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,244400.0,144.6,3,4,3,4
+"Casa/Dep en Venta de 179m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,139700.0,179.1,4,3,3,19
+"Casa/Dep en Venta de 240m² en Centro Histórico, Quito",Quito,Centro Histórico,177200.0,240.4,3,4,2,5
+"Casa/Dep en Venta de 110m² en Centro Histórico, Quito",Quito,Centro Histórico,91400.0,110.4,3,3,1,11
+"Casa/Dep en Venta de 233m² en La Carolina, Quito",Quito,La Carolina,365100.0,233.5,3,3,3,1
+"Casa/Dep en Venta de 172m² en La Carolina, Quito",Quito,La Carolina,254500.0,172.6,3,3,3,2
+"Casa/Dep en Venta de 152m² en Samborondón, Guayaquil",Guayaquil,Samborondón,269500.0,152.2,4,4,2,6
+"Casa/Dep en Venta de 202m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,199600.0,202.1,4,3,3,34
+"Casa/Dep en Venta de 140m² en La Carolina, Quito",Quito,La Carolina,202500.0,140.6,3,3,2,13
+"Casa/Dep en Venta de 258m² en El Batán, Quito",Quito,El Batán,418000.0,258.0,5,5,4,0
+"Casa/Dep en Venta de 132m² en Centro Histórico, Quito",Quito,Centro Histórico,105900.0,132.4,2,3,1,7
+"Casa/Dep en Venta de 151m² en Tumbaco, Quito",Quito,Tumbaco,199300.0,151.2,3,4,3,3
+"Casa/Dep en Venta de 239m² en Samborondón, Guayaquil",Guayaquil,Samborondón,458100.0,239.5,3,3,3,5
+"Casa/Dep en Venta de 204m² en Tumbaco, Quito",Quito,Tumbaco,247800.0,204.8,4,4,3,6
+"Casa/Dep en Venta de 177m² en González Suárez, Quito",Quito,González Suárez,319400.0,177.7,4,3,2,4
+"Casa/Dep en Venta de 185m² en Centro Histórico, Quito",Quito,Centro Histórico,161400.0,185.7,4,4,3,5
+"Casa/Dep en Venta de 166m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,210600.0,166.2,3,3,3,11
+"Casa/Dep en Venta de 133m² en La Carolina, Quito",Quito,La Carolina,165700.0,133.9,2,2,1,13
+"Casa/Dep en Venta de 248m² en González Suárez, Quito",Quito,González Suárez,410600.0,248.1,4,3,3,1
+"Casa/Dep en Venta de 186m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,326400.0,186.4,4,4,2,18
+"Casa/Dep en Venta de 139m² en La Carolina, Quito",Quito,La Carolina,188900.0,139.3,3,3,1,4
+"Casa/Dep en Venta de 200m² en Samborondón, Guayaquil",Guayaquil,Samborondón,331500.0,200.1,4,3,3,5
+"Casa/Dep en Venta de 106m² en Cumbayá, Quito",Quito,Cumbayá,158400.0,106.8,3,2,1,3
+"Casa/Dep en Venta de 169m² en Samborondón, Guayaquil",Guayaquil,Samborondón,278000.0,169.8,3,3,3,9
+"Casa/Dep en Venta de 197m² en González Suárez, Quito",Quito,González Suárez,308700.0,197.4,3,4,3,2
+"Casa/Dep en Venta de 88m² en Cumbayá, Quito",Quito,Cumbayá,146800.0,88.8,2,3,2,0
+"Casa/Dep en Venta de 183m² en Tumbaco, Quito",Quito,Tumbaco,318700.0,183.9,3,3,2,2
+"Casa/Dep en Venta de 167m² en La Carolina, Quito",Quito,La Carolina,249900.0,167.9,4,3,2,5
+"Casa/Dep en Venta de 267m² en González Suárez, Quito",Quito,González Suárez,447900.0,267.9,6,5,4,10
+"Casa/Dep en Venta de 292m² en González Suárez, Quito",Quito,González Suárez,380700.0,292.0,5,6,4,6
+"Casa/Dep en Venta de 125m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,191300.0,125.1,2,2,2,7
+"Casa/Dep en Venta de 101m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,179900.0,101.6,3,3,2,1
+"Casa/Dep en Venta de 128m² en La Carolina, Quito",Quito,La Carolina,215500.0,128.5,2,2,1,1
+"Casa/Dep en Venta de 135m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,142100.0,135.1,2,2,1,16
+"Casa/Dep en Venta de 239m² en Cumbayá, Quito",Quito,Cumbayá,319200.0,239.6,3,3,2,6
+"Casa/Dep en Venta de 99m² en La Carolina, Quito",Quito,La Carolina,127200.0,99.5,2,3,1,18
+"Casa/Dep en Venta de 197m² en Centro Histórico, Quito",Quito,Centro Histórico,199700.0,197.5,3,4,3,3
+"Casa/Dep en Venta de 216m² en Tumbaco, Quito",Quito,Tumbaco,273700.0,216.6,3,4,2,12
+"Casa/Dep en Venta de 140m² en El Batán, Quito",Quito,El Batán,172900.0,140.4,4,3,2,18
+"Casa/Dep en Venta de 199m² en La Carolina, Quito",Quito,La Carolina,283400.0,199.9,4,4,3,1
+"Casa/Dep en Venta de 125m² en La Carolina, Quito",Quito,La Carolina,189200.0,125.9,2,3,2,10
+"Casa/Dep en Venta de 252m² en La Carolina, Quito",Quito,La Carolina,376800.0,252.2,4,4,2,6
+"Casa/Dep en Venta de 164m² en Centro Histórico, Quito",Quito,Centro Histórico,137500.0,164.7,4,3,3,2
+"Casa/Dep en Venta de 175m² en González Suárez, Quito",Quito,González Suárez,268300.0,175.1,4,4,2,7
+"Casa/Dep en Venta de 180m² en La Carolina, Quito",Quito,La Carolina,301300.0,180.8,4,3,2,5
+"Casa/Dep en Venta de 224m² en Centro Histórico, Quito",Quito,Centro Histórico,181600.0,224.6,3,3,2,0
+"Casa/Dep en Venta de 121m² en González Suárez, Quito",Quito,González Suárez,163700.0,121.4,3,3,2,24
+"Casa/Dep en Venta de 166m² en Tumbaco, Quito",Quito,Tumbaco,204200.0,166.0,4,3,2,21
+"Casa/Dep en Venta de 213m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,340900.0,213.0,3,4,3,15
+"Casa/Dep en Venta de 132m² en El Batán, Quito",Quito,El Batán,152300.0,132.0,3,3,2,3
+"Casa/Dep en Venta de 194m² en González Suárez, Quito",Quito,González Suárez,237600.0,194.3,3,4,2,9
+"Casa/Dep en Venta de 130m² en Cumbayá, Quito",Quito,Cumbayá,166200.0,130.2,2,3,1,36
+"Casa/Dep en Venta de 183m² en Cumbayá, Quito",Quito,Cumbayá,240400.0,183.8,4,3,2,10
+"Casa/Dep en Venta de 262m² en Centro Histórico, Quito",Quito,Centro Histórico,267300.0,262.6,4,4,2,2
+"Casa/Dep en Venta de 216m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,207100.0,216.1,3,3,3,19
+"Casa/Dep en Venta de 216m² en La Carolina, Quito",Quito,La Carolina,429900.0,216.1,3,3,2,8
+"Casa/Dep en Venta de 251m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,507900.0,251.4,6,6,4,3
+"Casa/Dep en Venta de 135m² en Centro Histórico, Quito",Quito,Centro Histórico,115700.0,135.7,3,3,1,0
+"Casa/Dep en Venta de 390m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,383200.0,390.0,4,5,3,7
+"Casa/Dep en Venta de 151m² en González Suárez, Quito",Quito,González Suárez,265400.0,151.6,4,4,3,5
+"Casa/Dep en Venta de 138m² en La Carolina, Quito",Quito,La Carolina,215500.0,138.6,2,3,1,0
+"Casa/Dep en Venta de 183m² en La Carolina, Quito",Quito,La Carolina,239700.0,183.0,3,4,2,8
+"Casa/Dep en Venta de 85m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,110500.0,85.5,2,2,2,2
+"Casa/Dep en Venta de 134m² en Samborondón, Guayaquil",Guayaquil,Samborondón,171100.0,134.7,2,3,2,26
+"Casa/Dep en Venta de 215m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,241000.0,215.3,3,4,2,1
+"Casa/Dep en Venta de 151m² en González Suárez, Quito",Quito,González Suárez,199700.0,151.4,4,3,2,10
+"Casa/Dep en Venta de 113m² en Centro Histórico, Quito",Quito,Centro Histórico,106500.0,113.2,2,3,2,10
+"Casa/Dep en Venta de 367m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,429600.0,367.5,4,6,3,2
+"Casa/Dep en Venta de 279m² en Tumbaco, Quito",Quito,Tumbaco,350700.0,279.2,6,6,3,0
+"Casa/Dep en Venta de 210m² en Centro Histórico, Quito",Quito,Centro Histórico,210900.0,210.8,4,4,2,0
+"Casa/Dep en Venta de 57m² en La Carolina, Quito",Quito,La Carolina,71900.0,57.5,2,1,1,4
+"Casa/Dep en Venta de 314m² en Cumbayá, Quito",Quito,Cumbayá,425600.0,314.7,4,5,2,0
+"Casa/Dep en Venta de 295m² en Samborondón, Guayaquil",Guayaquil,Samborondón,343400.0,295.7,4,6,3,15
+"Casa/Dep en Venta de 125m² en Centro Histórico, Quito",Quito,Centro Histórico,110000.0,125.5,3,2,1,8
+"Casa/Dep en Venta de 184m² en La Carolina, Quito",Quito,La Carolina,261500.0,184.6,3,3,3,6
+"Casa/Dep en Venta de 310m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,262200.0,310.0,6,4,3,6
+"Casa/Dep en Venta de 170m² en González Suárez, Quito",Quito,González Suárez,253400.0,170.4,3,4,3,18
+"Casa/Dep en Venta de 199m² en Cumbayá, Quito",Quito,Cumbayá,296700.0,199.0,4,3,2,3
+"Casa/Dep en Venta de 145m² en La Carolina, Quito",Quito,La Carolina,221300.0,145.2,4,4,2,9
+"Casa/Dep en Venta de 246m² en Tumbaco, Quito",Quito,Tumbaco,319800.0,246.8,3,3,3,13
+"Casa/Dep en Venta de 132m² en Cumbayá, Quito",Quito,Cumbayá,184500.0,132.9,2,3,2,13
+"Casa/Dep en Venta de 178m² en Tumbaco, Quito",Quito,Tumbaco,222500.0,178.6,4,3,2,11
+"Casa/Dep en Venta de 218m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,362700.0,218.5,3,4,2,4
+"Casa/Dep en Venta de 240m² en Tumbaco, Quito",Quito,Tumbaco,317400.0,240.6,4,4,3,18
+"Casa/Dep en Venta de 282m² en Tumbaco, Quito",Quito,Tumbaco,349500.0,282.8,4,4,4,18
+"Casa/Dep en Venta de 202m² en Tumbaco, Quito",Quito,Tumbaco,262100.0,202.1,4,4,3,6
+"Casa/Dep en Venta de 133m² en La Carolina, Quito",Quito,La Carolina,239100.0,133.4,3,3,2,3
+"Casa/Dep en Venta de 269m² en Centro Histórico, Quito",Quito,Centro Histórico,245700.0,269.3,5,4,2,12
+"Casa/Dep en Venta de 179m² en Samborondón, Guayaquil",Guayaquil,Samborondón,238500.0,179.2,3,4,2,6
+"Casa/Dep en Venta de 253m² en La Carolina, Quito",Quito,La Carolina,385500.0,253.2,6,5,3,0
+"Casa/Dep en Venta de 208m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,258300.0,208.5,4,3,3,0
+"Casa/Dep en Venta de 196m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,168700.0,196.5,3,4,2,13
+"Casa/Dep en Venta de 151m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,223200.0,151.6,3,3,3,34
+"Casa/Dep en Venta de 105m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,121400.0,105.6,2,3,2,23
+"Casa/Dep en Venta de 138m² en La Carolina, Quito",Quito,La Carolina,193500.0,138.4,3,3,2,6
+"Casa/Dep en Venta de 243m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,295100.0,243.3,4,4,2,5
+"Casa/Dep en Venta de 178m² en Tumbaco, Quito",Quito,Tumbaco,228600.0,178.8,4,4,2,1
+"Casa/Dep en Venta de 202m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,174200.0,202.0,4,4,2,7
+"Casa/Dep en Venta de 173m² en Samborondón, Guayaquil",Guayaquil,Samborondón,267400.0,173.1,4,3,3,16
+"Casa/Dep en Venta de 195m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,195800.0,195.0,4,4,3,6
+"Casa/Dep en Venta de 181m² en El Batán, Quito",Quito,El Batán,247300.0,181.6,3,4,2,9
+"Casa/Dep en Venta de 371m² en La Carolina, Quito",Quito,La Carolina,470100.0,371.0,5,6,4,18
+"Casa/Dep en Venta de 375m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,340000.0,375.3,5,4,2,1
+"Casa/Dep en Venta de 82m² en Samborondón, Guayaquil",Guayaquil,Samborondón,118200.0,82.5,2,2,1,0
+"Casa/Dep en Venta de 203m² en Cumbayá, Quito",Quito,Cumbayá,390300.0,203.3,3,3,3,13
+"Casa/Dep en Venta de 129m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,126200.0,129.5,2,3,2,13
+"Casa/Dep en Venta de 110m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,121900.0,110.7,2,3,2,16
+"Casa/Dep en Venta de 271m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,470300.0,271.2,4,4,4,1
+"Casa/Dep en Venta de 95m² en Cumbayá, Quito",Quito,Cumbayá,161400.0,95.7,2,3,1,14
+"Casa/Dep en Venta de 172m² en González Suárez, Quito",Quito,González Suárez,304500.0,172.7,4,3,2,2
+"Casa/Dep en Venta de 180m² en La Carolina, Quito",Quito,La Carolina,232000.0,180.3,4,3,3,23
+"Casa/Dep en Venta de 152m² en Centro Histórico, Quito",Quito,Centro Histórico,153900.0,152.8,4,4,3,1
+"Casa/Dep en Venta de 187m² en Centro Histórico, Quito",Quito,Centro Histórico,176900.0,187.9,4,3,3,8
+"Casa/Dep en Venta de 102m² en El Batán, Quito",Quito,El Batán,150900.0,102.3,3,2,2,8
+"Casa/Dep en Venta de 306m² en Centro Histórico, Quito",Quito,Centro Histórico,251100.0,306.5,5,6,2,15
+"Casa/Dep en Venta de 226m² en Samborondón, Guayaquil",Guayaquil,Samborondón,446600.0,226.1,3,4,3,1
+"Casa/Dep en Venta de 260m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,257800.0,260.4,6,4,2,4
+"Casa/Dep en Venta de 163m² en González Suárez, Quito",Quito,González Suárez,251100.0,163.3,3,4,2,12
+"Casa/Dep en Venta de 314m² en Tumbaco, Quito",Quito,Tumbaco,295800.0,314.3,4,5,3,23
+"Casa/Dep en Venta de 96m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,92500.0,96.1,3,3,1,31
+"Casa/Dep en Venta de 84m² en Tumbaco, Quito",Quito,Tumbaco,106100.0,84.2,3,3,1,2
+"Casa/Dep en Venta de 205m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,179600.0,205.1,4,4,2,3
+"Casa/Dep en Venta de 176m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,257400.0,176.0,4,4,3,1
+"Casa/Dep en Venta de 148m² en Centro Histórico, Quito",Quito,Centro Histórico,121100.0,148.4,3,4,2,0
+"Casa/Dep en Venta de 173m² en Samborondón, Guayaquil",Guayaquil,Samborondón,230500.0,173.2,4,4,2,3
+"Casa/Dep en Venta de 139m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,208900.0,139.4,2,3,1,20
+"Casa/Dep en Venta de 172m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,156700.0,172.8,3,4,2,11
+"Casa/Dep en Venta de 148m² en La Carolina, Quito",Quito,La Carolina,207300.0,148.4,4,3,3,5
+"Casa/Dep en Venta de 103m² en González Suárez, Quito",Quito,González Suárez,171500.0,103.0,2,3,2,11
+"Casa/Dep en Venta de 220m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,289800.0,220.8,3,4,3,6
+"Casa/Dep en Venta de 171m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,199500.0,171.9,4,4,3,2
+"Casa/Dep en Venta de 136m² en Samborondón, Guayaquil",Guayaquil,Samborondón,163900.0,136.5,2,3,1,3
+"Casa/Dep en Venta de 142m² en Centro Histórico, Quito",Quito,Centro Histórico,97000.0,142.1,3,4,2,17
+"Casa/Dep en Venta de 320m² en La Carolina, Quito",Quito,La Carolina,505400.0,320.3,6,4,2,5
+"Casa/Dep en Venta de 185m² en Tumbaco, Quito",Quito,Tumbaco,203800.0,185.1,3,3,2,10
+"Casa/Dep en Venta de 123m² en Tumbaco, Quito",Quito,Tumbaco,151800.0,123.0,2,3,1,3
+"Casa/Dep en Venta de 249m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,253100.0,249.0,3,4,3,34
+"Casa/Dep en Venta de 107m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,141200.0,107.5,2,2,1,1
+"Casa/Dep en Venta de 141m² en Samborondón, Guayaquil",Guayaquil,Samborondón,215100.0,141.9,3,3,3,2
+"Casa/Dep en Venta de 183m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,130000.0,183.2,4,4,2,32
+"Casa/Dep en Venta de 165m² en La Carolina, Quito",Quito,La Carolina,202900.0,165.1,3,3,3,16
+"Casa/Dep en Venta de 145m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,157600.0,145.8,3,3,3,8
+"Casa/Dep en Venta de 186m² en Centro Histórico, Quito",Quito,Centro Histórico,183300.0,186.5,4,4,2,2
+"Casa/Dep en Venta de 141m² en Centro Histórico, Quito",Quito,Centro Histórico,138200.0,141.3,4,3,3,4
+"Casa/Dep en Venta de 98m² en El Batán, Quito",Quito,El Batán,130800.0,98.8,2,3,2,7
+"Casa/Dep en Venta de 225m² en El Batán, Quito",Quito,El Batán,251900.0,225.6,3,4,2,5
+"Casa/Dep en Venta de 141m² en Centro Histórico, Quito",Quito,Centro Histórico,133100.0,141.9,4,4,3,1
+"Casa/Dep en Venta de 255m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,397000.0,255.9,6,6,3,9
+"Casa/Dep en Venta de 217m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,326400.0,217.2,3,3,3,4
+"Casa/Dep en Venta de 220m² en El Batán, Quito",Quito,El Batán,250100.0,220.8,3,4,3,26
+"Casa/Dep en Venta de 205m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,251400.0,205.5,3,4,3,1
+"Casa/Dep en Venta de 185m² en González Suárez, Quito",Quito,González Suárez,261200.0,185.7,4,3,3,14
+"Casa/Dep en Venta de 203m² en Samborondón, Guayaquil",Guayaquil,Samborondón,313800.0,203.0,4,4,3,1
+"Casa/Dep en Venta de 207m² en Centro Histórico, Quito",Quito,Centro Histórico,171500.0,207.2,3,3,2,5
+"Casa/Dep en Venta de 244m² en Tumbaco, Quito",Quito,Tumbaco,282700.0,244.4,4,4,2,13
+"Casa/Dep en Venta de 85m² en El Batán, Quito",Quito,El Batán,101400.0,85.1,3,3,1,2
+"Casa/Dep en Venta de 181m² en La Carolina, Quito",Quito,La Carolina,286000.0,181.2,4,3,3,18
+"Casa/Dep en Venta de 240m² en Tumbaco, Quito",Quito,Tumbaco,226000.0,240.9,4,4,3,7
+"Casa/Dep en Venta de 104m² en Centro Histórico, Quito",Quito,Centro Histórico,99200.0,104.4,3,3,2,12
+"Casa/Dep en Venta de 225m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,343600.0,225.1,4,4,3,12
+"Casa/Dep en Venta de 152m² en Samborondón, Guayaquil",Guayaquil,Samborondón,197900.0,152.3,3,3,2,10
+"Casa/Dep en Venta de 184m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,197100.0,184.7,3,3,2,16
+"Casa/Dep en Venta de 258m² en Tumbaco, Quito",Quito,Tumbaco,298800.0,258.6,6,5,3,14
+"Casa/Dep en Venta de 163m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,144300.0,163.2,4,3,2,1
+"Casa/Dep en Venta de 235m² en Samborondón, Guayaquil",Guayaquil,Samborondón,306600.0,235.0,3,4,2,8
+"Casa/Dep en Venta de 208m² en Samborondón, Guayaquil",Guayaquil,Samborondón,430800.0,208.5,3,3,3,3
+"Casa/Dep en Venta de 93m² en Cumbayá, Quito",Quito,Cumbayá,148100.0,93.5,2,3,1,23
+"Casa/Dep en Venta de 198m² en El Batán, Quito",Quito,El Batán,240300.0,198.9,3,3,3,7
+"Casa/Dep en Venta de 187m² en El Batán, Quito",Quito,El Batán,245200.0,187.2,4,4,3,20
+"Casa/Dep en Venta de 134m² en González Suárez, Quito",Quito,González Suárez,209800.0,134.8,2,3,2,7
+"Casa/Dep en Venta de 310m² en La Carolina, Quito",Quito,La Carolina,386200.0,310.7,4,5,3,20
+"Casa/Dep en Venta de 125m² en La Carolina, Quito",Quito,La Carolina,160200.0,125.2,2,2,1,14
+"Casa/Dep en Venta de 183m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,206100.0,183.6,4,3,2,4
+"Casa/Dep en Venta de 170m² en La Carolina, Quito",Quito,La Carolina,251000.0,170.0,4,3,3,0
+"Casa/Dep en Venta de 124m² en El Batán, Quito",Quito,El Batán,122400.0,124.1,3,3,2,20
+"Casa/Dep en Venta de 111m² en Samborondón, Guayaquil",Guayaquil,Samborondón,136500.0,111.9,2,2,1,4
+"Casa/Dep en Venta de 163m² en Tumbaco, Quito",Quito,Tumbaco,175600.0,163.8,4,3,2,1
+"Casa/Dep en Venta de 176m² en Tumbaco, Quito",Quito,Tumbaco,196100.0,176.5,3,3,2,6
+"Casa/Dep en Venta de 216m² en Cumbayá, Quito",Quito,Cumbayá,329600.0,216.2,4,4,3,1
+"Casa/Dep en Venta de 169m² en Samborondón, Guayaquil",Guayaquil,Samborondón,243700.0,169.6,3,3,3,5
+"Casa/Dep en Venta de 189m² en Samborondón, Guayaquil",Guayaquil,Samborondón,297400.0,189.9,4,3,2,1
+"Casa/Dep en Venta de 190m² en Samborondón, Guayaquil",Guayaquil,Samborondón,420600.0,190.3,3,4,2,0
+"Casa/Dep en Venta de 119m² en Centro Histórico, Quito",Quito,Centro Histórico,117900.0,119.8,2,2,2,11
+"Casa/Dep en Venta de 68m² en González Suárez, Quito",Quito,González Suárez,82500.0,68.7,1,1,0,4
+"Casa/Dep en Venta de 193m² en González Suárez, Quito",Quito,González Suárez,270200.0,193.6,4,4,3,15
+"Casa/Dep en Venta de 217m² en La Carolina, Quito",Quito,La Carolina,303500.0,217.1,4,4,3,8
+"Casa/Dep en Venta de 175m² en Samborondón, Guayaquil",Guayaquil,Samborondón,257100.0,175.5,4,4,2,10
+"Casa/Dep en Venta de 182m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,190500.0,182.0,3,4,3,2
+"Casa/Dep en Venta de 171m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,156800.0,171.7,4,3,2,8
+"Casa/Dep en Venta de 165m² en Tumbaco, Quito",Quito,Tumbaco,211200.0,165.7,3,4,2,10
+"Casa/Dep en Venta de 197m² en González Suárez, Quito",Quito,González Suárez,272500.0,197.0,4,4,3,8
+"Casa/Dep en Venta de 127m² en González Suárez, Quito",Quito,González Suárez,151800.0,127.6,3,3,1,0
+"Casa/Dep en Venta de 328m² en El Batán, Quito",Quito,El Batán,372800.0,328.3,5,5,3,13
+"Casa/Dep en Venta de 133m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,176700.0,133.5,2,2,2,7
+"Casa/Dep en Venta de 106m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,132400.0,106.9,3,3,2,6
+"Casa/Dep en Venta de 147m² en Centro Histórico, Quito",Quito,Centro Histórico,138700.0,147.6,3,4,2,11
+"Casa/Dep en Venta de 178m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,277400.0,178.0,4,4,2,4
+"Casa/Dep en Venta de 228m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,332300.0,228.2,3,4,3,1
+"Casa/Dep en Venta de 186m² en Cumbayá, Quito",Quito,Cumbayá,252400.0,186.6,3,4,3,0
+"Casa/Dep en Venta de 218m² en El Batán, Quito",Quito,El Batán,281700.0,218.9,3,3,3,8
+"Casa/Dep en Venta de 217m² en Centro Histórico, Quito",Quito,Centro Histórico,244700.0,217.0,3,4,3,1
+"Casa/Dep en Venta de 308m² en El Batán, Quito",Quito,El Batán,446400.0,308.4,4,4,4,1
+"Casa/Dep en Venta de 239m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,230900.0,239.0,3,3,3,5
+"Casa/Dep en Venta de 193m² en Centro Histórico, Quito",Quito,Centro Histórico,139000.0,193.3,3,4,2,2
+"Casa/Dep en Venta de 134m² en Tumbaco, Quito",Quito,Tumbaco,172700.0,134.4,2,3,1,10
+"Casa/Dep en Venta de 94m² en González Suárez, Quito",Quito,González Suárez,139200.0,94.3,3,3,2,8
+"Casa/Dep en Venta de 191m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,370000.0,191.9,4,4,2,0
+"Casa/Dep en Venta de 102m² en El Batán, Quito",Quito,El Batán,110600.0,102.8,2,3,1,5
+"Casa/Dep en Venta de 254m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,264300.0,254.2,6,6,2,0
+"Casa/Dep en Venta de 159m² en La Carolina, Quito",Quito,La Carolina,191600.0,159.4,4,4,3,9
+"Casa/Dep en Venta de 155m² en Centro Histórico, Quito",Quito,Centro Histórico,114300.0,155.6,4,3,3,12
+"Casa/Dep en Venta de 249m² en Samborondón, Guayaquil",Guayaquil,Samborondón,325800.0,249.3,4,3,3,3
+"Casa/Dep en Venta de 165m² en Centro Histórico, Quito",Quito,Centro Histórico,151500.0,165.8,4,4,3,16
+"Casa/Dep en Venta de 224m² en Centro Histórico, Quito",Quito,Centro Histórico,184700.0,224.0,4,4,3,9
+"Casa/Dep en Venta de 225m² en Tumbaco, Quito",Quito,Tumbaco,327800.0,225.2,3,4,2,2
+"Casa/Dep en Venta de 188m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,342900.0,188.9,3,4,3,9
+"Casa/Dep en Venta de 166m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,294400.0,166.6,4,3,3,23
+"Casa/Dep en Venta de 174m² en Cumbayá, Quito",Quito,Cumbayá,232100.0,174.9,3,4,2,3
+"Casa/Dep en Venta de 215m² en El Batán, Quito",Quito,El Batán,267900.0,215.0,3,4,2,0
+"Casa/Dep en Venta de 280m² en González Suárez, Quito",Quito,González Suárez,457000.0,280.2,5,6,2,0
+"Casa/Dep en Venta de 88m² en La Carolina, Quito",Quito,La Carolina,141600.0,88.5,3,3,2,3
+"Casa/Dep en Venta de 199m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,224500.0,199.2,4,3,3,2
+"Casa/Dep en Venta de 183m² en Centro Histórico, Quito",Quito,Centro Histórico,155400.0,183.1,4,4,3,40
+"Casa/Dep en Venta de 140m² en Centro Histórico, Quito",Quito,Centro Histórico,137300.0,140.2,3,3,2,5
+"Casa/Dep en Venta de 201m² en Samborondón, Guayaquil",Guayaquil,Samborondón,230600.0,201.3,3,3,3,11
+"Casa/Dep en Venta de 94m² en La Carolina, Quito",Quito,La Carolina,130100.0,94.2,2,3,1,2
+"Casa/Dep en Venta de 134m² en Samborondón, Guayaquil",Guayaquil,Samborondón,151900.0,134.1,2,2,2,2
+"Casa/Dep en Venta de 115m² en Cumbayá, Quito",Quito,Cumbayá,185900.0,115.4,3,3,2,1
+"Casa/Dep en Venta de 133m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,262300.0,133.0,2,2,2,23
+"Casa/Dep en Venta de 141m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,128500.0,141.2,3,3,2,37
+"Casa/Dep en Venta de 313m² en La Carolina, Quito",Quito,La Carolina,465500.0,313.5,6,5,4,2
+"Casa/Dep en Venta de 144m² en Tumbaco, Quito",Quito,Tumbaco,164900.0,144.7,4,3,2,12
+"Casa/Dep en Venta de 169m² en El Batán, Quito",Quito,El Batán,204400.0,169.4,4,4,3,17
+"Casa/Dep en Venta de 116m² en Cumbayá, Quito",Quito,Cumbayá,182600.0,116.9,3,3,1,9
+"Casa/Dep en Venta de 157m² en La Carolina, Quito",Quito,La Carolina,299700.0,157.0,4,4,3,2
+"Casa/Dep en Venta de 250m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,430800.0,250.0,6,5,3,0
+"Casa/Dep en Venta de 221m² en Samborondón, Guayaquil",Guayaquil,Samborondón,345500.0,221.3,3,4,3,17
+"Casa/Dep en Venta de 262m² en La Carolina, Quito",Quito,La Carolina,340600.0,262.6,4,5,4,0
+"Casa/Dep en Venta de 113m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,117400.0,113.3,3,3,1,10
+"Casa/Dep en Venta de 179m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,139700.0,179.5,4,3,2,9
+"Casa/Dep en Venta de 130m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,135500.0,130.8,3,3,1,13
+"Casa/Dep en Venta de 118m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,118400.0,118.7,3,2,1,2
+"Casa/Dep en Venta de 200m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,190400.0,200.8,4,3,2,15
+"Casa/Dep en Venta de 231m² en Cumbayá, Quito",Quito,Cumbayá,404800.0,231.6,4,4,2,9
+"Casa/Dep en Venta de 304m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,292900.0,304.6,5,6,2,1
+"Casa/Dep en Venta de 132m² en La Carolina, Quito",Quito,La Carolina,206000.0,132.6,3,3,2,1
+"Casa/Dep en Venta de 207m² en González Suárez, Quito",Quito,González Suárez,366400.0,207.6,3,3,3,0
+"Casa/Dep en Venta de 104m² en Centro Histórico, Quito",Quito,Centro Histórico,98400.0,104.0,3,2,2,7
+"Casa/Dep en Venta de 109m² en El Batán, Quito",Quito,El Batán,137600.0,109.5,3,3,1,12
+"Casa/Dep en Venta de 155m² en El Batán, Quito",Quito,El Batán,195300.0,155.6,3,3,2,26
+"Casa/Dep en Venta de 105m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,191800.0,105.8,3,2,2,0
+"Casa/Dep en Venta de 208m² en Cumbayá, Quito",Quito,Cumbayá,334800.0,208.2,4,3,3,2
+"Casa/Dep en Venta de 191m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,234400.0,191.6,4,4,3,3
+"Casa/Dep en Venta de 188m² en La Carolina, Quito",Quito,La Carolina,229500.0,188.4,3,4,2,29
+"Casa/Dep en Venta de 148m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,148600.0,148.6,4,3,2,0
+"Casa/Dep en Venta de 85m² en El Batán, Quito",Quito,El Batán,88700.0,85.2,3,3,1,9
+"Casa/Dep en Venta de 155m² en González Suárez, Quito",Quito,González Suárez,204500.0,155.3,3,3,3,4
+"Casa/Dep en Venta de 168m² en El Batán, Quito",Quito,El Batán,243500.0,168.8,3,3,2,9
+"Casa/Dep en Venta de 283m² en Centro Histórico, Quito",Quito,Centro Histórico,211900.0,283.3,4,5,3,24
+"Casa/Dep en Venta de 118m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,125900.0,118.0,3,2,2,4
+"Casa/Dep en Venta de 317m² en La Carolina, Quito",Quito,La Carolina,420000.0,317.5,5,6,3,33
+"Casa/Dep en Venta de 167m² en Samborondón, Guayaquil",Guayaquil,Samborondón,268900.0,167.0,3,4,2,1
+"Casa/Dep en Venta de 165m² en El Batán, Quito",Quito,El Batán,221900.0,165.7,4,3,3,15
+"Casa/Dep en Venta de 178m² en La Carolina, Quito",Quito,La Carolina,252600.0,178.1,4,4,2,16
+"Casa/Dep en Venta de 232m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,322300.0,232.2,4,3,2,11
+"Casa/Dep en Venta de 202m² en El Batán, Quito",Quito,El Batán,268700.0,202.0,3,3,2,20
+"Casa/Dep en Venta de 214m² en Cumbayá, Quito",Quito,Cumbayá,372600.0,214.3,4,3,2,0
+"Casa/Dep en Venta de 136m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,120700.0,136.4,2,2,1,1
+"Casa/Dep en Venta de 179m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,170300.0,179.1,3,3,3,2
+"Casa/Dep en Venta de 255m² en González Suárez, Quito",Quito,González Suárez,399800.0,255.0,6,4,3,0
+"Casa/Dep en Venta de 140m² en González Suárez, Quito",Quito,González Suárez,232000.0,140.0,3,4,2,7
+"Casa/Dep en Venta de 120m² en La Carolina, Quito",Quito,La Carolina,158300.0,120.4,2,2,1,12
+"Casa/Dep en Venta de 146m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,236700.0,146.2,3,4,2,2
+"Casa/Dep en Venta de 178m² en González Suárez, Quito",Quito,González Suárez,235700.0,178.5,4,3,2,6
+"Casa/Dep en Venta de 182m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,323700.0,182.5,3,3,3,0
+"Casa/Dep en Venta de 137m² en El Batán, Quito",Quito,El Batán,201000.0,137.7,3,2,2,6
+"Casa/Dep en Venta de 224m² en Centro Histórico, Quito",Quito,Centro Histórico,216600.0,224.4,3,3,3,1
+"Casa/Dep en Venta de 134m² en El Batán, Quito",Quito,El Batán,220800.0,134.4,2,2,2,0
+"Casa/Dep en Venta de 204m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,314600.0,204.5,4,3,3,10
+"Casa/Dep en Venta de 263m² en El Batán, Quito",Quito,El Batán,382300.0,263.1,4,4,3,0
+"Casa/Dep en Venta de 251m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,260000.0,251.0,4,4,2,4
+"Casa/Dep en Venta de 148m² en Centro Histórico, Quito",Quito,Centro Histórico,181300.0,148.4,4,4,3,8
+"Casa/Dep en Venta de 173m² en El Batán, Quito",Quito,El Batán,211300.0,173.8,4,3,2,2
+"Casa/Dep en Venta de 219m² en Centro Histórico, Quito",Quito,Centro Histórico,235600.0,219.8,3,4,3,0
+"Casa/Dep en Venta de 172m² en Tumbaco, Quito",Quito,Tumbaco,168200.0,172.9,4,4,3,10
+"Casa/Dep en Venta de 129m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,135900.0,129.3,3,2,2,35
+"Casa/Dep en Venta de 353m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,467400.0,353.9,5,6,3,5
+"Casa/Dep en Venta de 146m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,170900.0,146.1,3,4,2,19
+"Casa/Dep en Venta de 113m² en La Carolina, Quito",Quito,La Carolina,164000.0,113.5,2,2,2,10
+"Casa/Dep en Venta de 140m² en La Carolina, Quito",Quito,La Carolina,215500.0,140.1,4,3,2,1
+"Casa/Dep en Venta de 161m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,164100.0,161.9,4,3,3,2
+"Casa/Dep en Venta de 260m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,301700.0,260.8,6,5,4,3
+"Casa/Dep en Venta de 201m² en Cumbayá, Quito",Quito,Cumbayá,304200.0,201.7,4,4,3,27
+"Casa/Dep en Venta de 113m² en La Carolina, Quito",Quito,La Carolina,130300.0,113.8,2,2,2,11
+"Casa/Dep en Venta de 163m² en Tumbaco, Quito",Quito,Tumbaco,163600.0,163.1,3,4,3,1
+"Casa/Dep en Venta de 197m² en La Carolina, Quito",Quito,La Carolina,316300.0,197.1,4,3,3,4
+"Casa/Dep en Venta de 107m² en Centro Histórico, Quito",Quito,Centro Histórico,104400.0,107.8,2,3,1,1
+"Casa/Dep en Venta de 275m² en González Suárez, Quito",Quito,González Suárez,412300.0,275.1,5,6,3,14
+"Casa/Dep en Venta de 282m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,345900.0,282.2,5,4,2,1
+"Casa/Dep en Venta de 147m² en González Suárez, Quito",Quito,González Suárez,214600.0,147.2,4,3,2,6
+"Casa/Dep en Venta de 123m² en Cumbayá, Quito",Quito,Cumbayá,184400.0,123.1,2,2,2,3
+"Casa/Dep en Venta de 180m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,254000.0,180.6,4,4,2,34
+"Casa/Dep en Venta de 211m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,198800.0,211.4,4,4,2,4
+"Casa/Dep en Venta de 226m² en Cumbayá, Quito",Quito,Cumbayá,316700.0,226.0,3,4,3,28
+"Casa/Dep en Venta de 141m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,246500.0,141.9,4,4,3,16
+"Casa/Dep en Venta de 128m² en Samborondón, Guayaquil",Guayaquil,Samborondón,170000.0,128.6,2,2,2,23
+"Casa/Dep en Venta de 184m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,151000.0,184.4,4,4,2,9
+"Casa/Dep en Venta de 227m² en Tumbaco, Quito",Quito,Tumbaco,266500.0,227.9,4,3,2,4
+"Casa/Dep en Venta de 200m² en Tumbaco, Quito",Quito,Tumbaco,235600.0,200.1,4,3,2,40
+"Casa/Dep en Venta de 164m² en Samborondón, Guayaquil",Guayaquil,Samborondón,272700.0,164.3,4,4,2,6
+"Casa/Dep en Venta de 204m² en Cumbayá, Quito",Quito,Cumbayá,375900.0,204.3,4,4,2,3
+"Casa/Dep en Venta de 220m² en González Suárez, Quito",Quito,González Suárez,372600.0,220.3,4,3,3,12
+"Casa/Dep en Venta de 163m² en La Carolina, Quito",Quito,La Carolina,208700.0,163.7,4,3,3,6
+"Casa/Dep en Venta de 98m² en Cumbayá, Quito",Quito,Cumbayá,127300.0,98.2,3,2,2,3
+"Casa/Dep en Venta de 161m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,170300.0,161.2,4,4,3,2
+"Casa/Dep en Venta de 139m² en Samborondón, Guayaquil",Guayaquil,Samborondón,137400.0,139.4,2,3,1,7
+"Casa/Dep en Venta de 140m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,169500.0,140.2,3,4,3,5
+"Casa/Dep en Venta de 178m² en La Carolina, Quito",Quito,La Carolina,302200.0,178.7,4,3,2,3
+"Casa/Dep en Venta de 91m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,169600.0,91.9,3,2,2,7
+"Casa/Dep en Venta de 220m² en Samborondón, Guayaquil",Guayaquil,Samborondón,288800.0,220.7,4,3,3,24
+"Casa/Dep en Venta de 207m² en González Suárez, Quito",Quito,González Suárez,313600.0,207.0,3,3,2,0
+"Casa/Dep en Venta de 219m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,243200.0,219.0,4,3,2,5
+"Casa/Dep en Venta de 125m² en La Carolina, Quito",Quito,La Carolina,131500.0,125.4,2,3,1,12
+"Casa/Dep en Venta de 207m² en González Suárez, Quito",Quito,González Suárez,275200.0,207.3,3,3,2,10
+"Casa/Dep en Venta de 100m² en El Batán, Quito",Quito,El Batán,125100.0,100.3,3,3,2,1
+"Casa/Dep en Venta de 218m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,266900.0,218.8,3,4,2,9
+"Casa/Dep en Venta de 127m² en El Batán, Quito",Quito,El Batán,162800.0,127.6,3,3,2,26
+"Casa/Dep en Venta de 175m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,188700.0,175.2,3,4,2,0
+"Casa/Dep en Venta de 189m² en Samborondón, Guayaquil",Guayaquil,Samborondón,262600.0,189.2,4,4,2,13
+"Casa/Dep en Venta de 207m² en Cumbayá, Quito",Quito,Cumbayá,374600.0,207.6,4,4,2,7
+"Casa/Dep en Venta de 161m² en La Carolina, Quito",Quito,La Carolina,255300.0,161.4,4,4,2,3
+"Casa/Dep en Venta de 139m² en El Batán, Quito",Quito,El Batán,206700.0,139.3,2,3,2,13
+"Casa/Dep en Venta de 132m² en Centro Histórico, Quito",Quito,Centro Histórico,147500.0,132.9,2,2,2,7
+"Casa/Dep en Venta de 114m² en La Carolina, Quito",Quito,La Carolina,147100.0,114.1,3,2,1,10
+"Casa/Dep en Venta de 211m² en Cumbayá, Quito",Quito,Cumbayá,419500.0,211.5,3,4,3,0
+"Casa/Dep en Venta de 313m² en Centro Histórico, Quito",Quito,Centro Histórico,334200.0,313.8,6,6,2,2
+"Casa/Dep en Venta de 96m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,101500.0,96.7,3,3,2,35
+"Casa/Dep en Venta de 135m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,266800.0,135.7,3,2,2,4
+"Casa/Dep en Venta de 264m² en La Carolina, Quito",Quito,La Carolina,432400.0,264.4,5,4,4,1
+"Casa/Dep en Venta de 148m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,214700.0,148.2,4,4,2,2
+"Casa/Dep en Venta de 138m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,162400.0,138.8,2,2,2,0
+"Casa/Dep en Venta de 182m² en Samborondón, Guayaquil",Guayaquil,Samborondón,331600.0,182.2,4,3,2,2
+"Casa/Dep en Venta de 187m² en Samborondón, Guayaquil",Guayaquil,Samborondón,237600.0,187.2,4,4,2,6
+"Casa/Dep en Venta de 114m² en Centro Histórico, Quito",Quito,Centro Histórico,88400.0,114.3,2,3,2,40
+"Casa/Dep en Venta de 140m² en Tumbaco, Quito",Quito,Tumbaco,162600.0,140.3,4,4,2,1
+"Casa/Dep en Venta de 224m² en Tumbaco, Quito",Quito,Tumbaco,361800.0,224.9,3,3,2,0
+"Casa/Dep en Venta de 161m² en Samborondón, Guayaquil",Guayaquil,Samborondón,231200.0,161.0,3,3,3,8
+"Casa/Dep en Venta de 107m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,83000.0,107.2,2,3,1,39
+"Casa/Dep en Venta de 236m² en González Suárez, Quito",Quito,González Suárez,331400.0,236.9,3,3,3,5
+"Casa/Dep en Venta de 195m² en Cumbayá, Quito",Quito,Cumbayá,342000.0,195.1,4,4,2,1
+"Casa/Dep en Venta de 221m² en El Batán, Quito",Quito,El Batán,274700.0,221.2,4,4,2,0
+"Casa/Dep en Venta de 129m² en Centro Histórico, Quito",Quito,Centro Histórico,119500.0,129.9,2,3,2,0
+"Casa/Dep en Venta de 231m² en Tumbaco, Quito",Quito,Tumbaco,395100.0,231.1,4,4,3,4
+"Casa/Dep en Venta de 118m² en Samborondón, Guayaquil",Guayaquil,Samborondón,162400.0,118.7,3,3,1,20
+"Casa/Dep en Venta de 179m² en Tumbaco, Quito",Quito,Tumbaco,225400.0,179.9,3,4,2,1
+"Casa/Dep en Venta de 270m² en El Batán, Quito",Quito,El Batán,349300.0,270.0,5,6,2,16
+"Casa/Dep en Venta de 222m² en Centro Histórico, Quito",Quito,Centro Histórico,171300.0,222.6,3,4,2,0
+"Casa/Dep en Venta de 158m² en González Suárez, Quito",Quito,González Suárez,241600.0,158.3,4,4,2,3
+"Casa/Dep en Venta de 191m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,475500.0,191.3,3,3,3,1
+"Casa/Dep en Venta de 161m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,145100.0,161.4,3,4,2,1
+"Casa/Dep en Venta de 184m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,353500.0,184.2,4,3,3,3
+"Casa/Dep en Venta de 183m² en La Carolina, Quito",Quito,La Carolina,187000.0,183.5,4,3,2,2
+"Casa/Dep en Venta de 199m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,256500.0,199.9,3,4,2,8
+"Casa/Dep en Venta de 112m² en González Suárez, Quito",Quito,González Suárez,158000.0,112.2,2,3,2,1
+"Casa/Dep en Venta de 176m² en González Suárez, Quito",Quito,González Suárez,254000.0,176.0,4,4,2,0
+"Casa/Dep en Venta de 155m² en La Carolina, Quito",Quito,La Carolina,236100.0,155.0,3,4,2,2
+"Casa/Dep en Venta de 143m² en González Suárez, Quito",Quito,González Suárez,178700.0,143.1,4,3,3,5
+"Casa/Dep en Venta de 247m² en Tumbaco, Quito",Quito,Tumbaco,276400.0,247.8,4,3,2,5
+"Casa/Dep en Venta de 166m² en Tumbaco, Quito",Quito,Tumbaco,202500.0,166.9,4,4,2,4
+"Casa/Dep en Venta de 117m² en La Carolina, Quito",Quito,La Carolina,166000.0,117.0,3,2,1,14
+"Casa/Dep en Venta de 235m² en González Suárez, Quito",Quito,González Suárez,337000.0,235.4,4,4,2,4
+"Casa/Dep en Venta de 179m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,174800.0,179.0,4,3,3,11
+"Casa/Dep en Venta de 119m² en González Suárez, Quito",Quito,González Suárez,156900.0,119.3,2,3,1,0
+"Casa/Dep en Venta de 178m² en Centro Histórico, Quito",Quito,Centro Histórico,137100.0,178.0,3,4,3,4
+"Casa/Dep en Venta de 177m² en Cumbayá, Quito",Quito,Cumbayá,197500.0,177.4,4,4,3,10
+"Casa/Dep en Venta de 153m² en Cumbayá, Quito",Quito,Cumbayá,263700.0,153.1,4,3,3,4
+"Casa/Dep en Venta de 193m² en Tumbaco, Quito",Quito,Tumbaco,270500.0,193.9,3,4,2,12
+"Casa/Dep en Venta de 119m² en Cumbayá, Quito",Quito,Cumbayá,186200.0,119.2,3,3,1,2
+"Casa/Dep en Venta de 248m² en El Batán, Quito",Quito,El Batán,334000.0,248.6,4,3,2,8
+"Casa/Dep en Venta de 238m² en La Carolina, Quito",Quito,La Carolina,321900.0,238.5,4,3,3,0
+"Casa/Dep en Venta de 184m² en Tumbaco, Quito",Quito,Tumbaco,230100.0,184.1,3,3,2,5
+"Casa/Dep en Venta de 185m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,206700.0,185.9,4,4,3,10
+"Casa/Dep en Venta de 282m² en Samborondón, Guayaquil",Guayaquil,Samborondón,486900.0,282.2,4,6,2,3
+"Casa/Dep en Venta de 269m² en Samborondón, Guayaquil",Guayaquil,Samborondón,475800.0,269.2,5,4,4,1
+"Casa/Dep en Venta de 139m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,188300.0,139.0,3,2,2,2
+"Casa/Dep en Venta de 128m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,194000.0,128.2,3,2,2,8
+"Casa/Dep en Venta de 182m² en El Batán, Quito",Quito,El Batán,264600.0,182.5,4,4,2,12
+"Casa/Dep en Venta de 332m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,490700.0,332.0,4,5,4,13
+"Casa/Dep en Venta de 204m² en González Suárez, Quito",Quito,González Suárez,247700.0,204.6,4,4,2,21
+"Casa/Dep en Venta de 112m² en La Carolina, Quito",Quito,La Carolina,173300.0,112.3,3,3,2,4
+"Casa/Dep en Venta de 189m² en El Batán, Quito",Quito,El Batán,276300.0,189.8,4,3,3,1
+"Casa/Dep en Venta de 169m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,229400.0,169.6,4,3,3,2
+"Casa/Dep en Venta de 197m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,189100.0,197.9,4,4,2,20
+"Casa/Dep en Venta de 133m² en La Carolina, Quito",Quito,La Carolina,189800.0,133.6,3,3,1,14
+"Casa/Dep en Venta de 233m² en Cumbayá, Quito",Quito,Cumbayá,400000.0,233.2,3,4,2,1
+"Casa/Dep en Venta de 182m² en González Suárez, Quito",Quito,González Suárez,288200.0,182.0,3,3,3,0
+"Casa/Dep en Venta de 174m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,202900.0,174.5,4,3,2,13
+"Casa/Dep en Venta de 103m² en El Batán, Quito",Quito,El Batán,164400.0,103.9,3,3,2,10
+"Casa/Dep en Venta de 261m² en La Carolina, Quito",Quito,La Carolina,491600.0,261.9,6,4,4,2
+"Casa/Dep en Venta de 224m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,259400.0,224.4,4,4,3,8
+"Casa/Dep en Venta de 213m² en Tumbaco, Quito",Quito,Tumbaco,315500.0,213.3,3,3,2,0
+"Casa/Dep en Venta de 128m² en El Batán, Quito",Quito,El Batán,201100.0,128.1,3,2,2,0
+"Casa/Dep en Venta de 154m² en Samborondón, Guayaquil",Guayaquil,Samborondón,270000.0,154.3,4,3,3,6
+"Casa/Dep en Venta de 296m² en El Batán, Quito",Quito,El Batán,413900.0,296.2,4,4,2,3
+"Casa/Dep en Venta de 297m² en La Carolina, Quito",Quito,La Carolina,367300.0,297.0,5,4,4,11
+"Casa/Dep en Venta de 119m² en El Batán, Quito",Quito,El Batán,150700.0,119.8,2,3,2,2
+"Casa/Dep en Venta de 83m² en La Carolina, Quito",Quito,La Carolina,86200.0,83.4,3,3,1,17
+"Casa/Dep en Venta de 297m² en González Suárez, Quito",Quito,González Suárez,492400.0,297.3,5,6,2,9
+"Casa/Dep en Venta de 146m² en La Carolina, Quito",Quito,La Carolina,256600.0,146.1,3,3,2,7
+"Casa/Dep en Venta de 161m² en El Batán, Quito",Quito,El Batán,263100.0,161.7,3,4,3,6
+"Casa/Dep en Venta de 341m² en El Batán, Quito",Quito,El Batán,442200.0,341.3,6,4,4,9
+"Casa/Dep en Venta de 240m² en La Carolina, Quito",Quito,La Carolina,401400.0,240.8,3,4,3,5
+"Casa/Dep en Venta de 142m² en El Batán, Quito",Quito,El Batán,129900.0,142.0,4,4,2,12
+"Casa/Dep en Venta de 238m² en González Suárez, Quito",Quito,González Suárez,334600.0,238.6,4,3,3,3
+"Casa/Dep en Venta de 171m² en El Batán, Quito",Quito,El Batán,230200.0,171.4,4,3,2,7
+"Casa/Dep en Venta de 220m² en González Suárez, Quito",Quito,González Suárez,308000.0,220.8,4,3,2,8
+"Casa/Dep en Venta de 197m² en Centro Histórico, Quito",Quito,Centro Histórico,185900.0,197.7,3,4,2,14
+"Casa/Dep en Venta de 88m² en González Suárez, Quito",Quito,González Suárez,112000.0,88.2,3,2,2,1
+"Casa/Dep en Venta de 116m² en Centro Histórico, Quito",Quito,Centro Histórico,99000.0,116.8,3,2,2,0
+"Casa/Dep en Venta de 236m² en Tumbaco, Quito",Quito,Tumbaco,363800.0,236.2,4,3,3,2
+"Casa/Dep en Venta de 167m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,165100.0,167.7,3,3,2,1
+"Casa/Dep en Venta de 290m² en González Suárez, Quito",Quito,González Suárez,489300.0,290.8,6,6,4,1
+"Casa/Dep en Venta de 156m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,172300.0,156.9,4,3,2,4
+"Casa/Dep en Venta de 236m² en La Carolina, Quito",Quito,La Carolina,350200.0,236.7,3,4,2,7
+"Casa/Dep en Venta de 146m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,109200.0,146.0,4,3,3,25
+"Casa/Dep en Venta de 129m² en Centro Histórico, Quito",Quito,Centro Histórico,91000.0,129.8,3,3,2,18
+"Casa/Dep en Venta de 128m² en Tumbaco, Quito",Quito,Tumbaco,155200.0,128.3,3,3,2,4
+"Casa/Dep en Venta de 179m² en La Carolina, Quito",Quito,La Carolina,242300.0,179.1,3,3,3,18
+"Casa/Dep en Venta de 118m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,205600.0,118.7,3,3,1,3
+"Casa/Dep en Venta de 185m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,203000.0,185.7,3,4,3,22
+"Casa/Dep en Venta de 144m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,154200.0,144.4,4,3,3,10
+"Casa/Dep en Venta de 220m² en Centro Histórico, Quito",Quito,Centro Histórico,196200.0,220.1,3,4,2,4
+"Casa/Dep en Venta de 203m² en El Batán, Quito",Quito,El Batán,280300.0,203.8,3,4,3,0
+"Casa/Dep en Venta de 147m² en Tumbaco, Quito",Quito,Tumbaco,198200.0,147.7,3,3,2,15
+"Casa/Dep en Venta de 190m² en Tumbaco, Quito",Quito,Tumbaco,248100.0,190.1,3,4,3,6
+"Casa/Dep en Venta de 132m² en Tumbaco, Quito",Quito,Tumbaco,166300.0,132.9,2,3,2,1
+"Casa/Dep en Venta de 354m² en El Batán, Quito",Quito,El Batán,430900.0,354.8,5,5,2,8
+"Casa/Dep en Venta de 184m² en La Carolina, Quito",Quito,La Carolina,232500.0,184.8,4,4,2,13
+"Casa/Dep en Venta de 176m² en Tumbaco, Quito",Quito,Tumbaco,212700.0,176.2,4,3,2,1
+"Casa/Dep en Venta de 149m² en Samborondón, Guayaquil",Guayaquil,Samborondón,179100.0,149.5,4,4,3,11
+"Casa/Dep en Venta de 186m² en Centro Histórico, Quito",Quito,Centro Histórico,146700.0,186.2,3,3,3,16
+"Casa/Dep en Venta de 215m² en González Suárez, Quito",Quito,González Suárez,267700.0,215.8,4,4,3,33
+"Casa/Dep en Venta de 137m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,144600.0,137.5,2,3,1,6
+"Casa/Dep en Venta de 179m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,198400.0,179.7,3,4,3,13
+"Casa/Dep en Venta de 146m² en La Carolina, Quito",Quito,La Carolina,180600.0,146.3,4,4,3,1
+"Casa/Dep en Venta de 193m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,215900.0,193.4,3,3,2,6
+"Casa/Dep en Venta de 217m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,277500.0,217.7,4,4,3,19
+"Casa/Dep en Venta de 187m² en González Suárez, Quito",Quito,González Suárez,292600.0,187.8,3,4,2,12
+"Casa/Dep en Venta de 154m² en Cumbayá, Quito",Quito,Cumbayá,241600.0,154.1,3,3,3,2
+"Casa/Dep en Venta de 149m² en El Batán, Quito",Quito,El Batán,191200.0,149.2,4,3,2,8
+"Casa/Dep en Venta de 117m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,154000.0,117.3,3,2,2,0
+"Casa/Dep en Venta de 196m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,169800.0,196.2,4,4,3,27
+"Casa/Dep en Venta de 177m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,143800.0,177.1,4,4,2,8
+"Casa/Dep en Venta de 164m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,251300.0,164.1,4,3,3,6
+"Casa/Dep en Venta de 195m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,183900.0,195.0,4,3,3,0
+"Casa/Dep en Venta de 222m² en Samborondón, Guayaquil",Guayaquil,Samborondón,420700.0,222.3,3,3,3,13
+"Casa/Dep en Venta de 204m² en González Suárez, Quito",Quito,González Suárez,298400.0,204.0,4,3,2,5
+"Casa/Dep en Venta de 282m² en Cumbayá, Quito",Quito,Cumbayá,422400.0,282.8,6,6,2,5
+"Casa/Dep en Venta de 254m² en Tumbaco, Quito",Quito,Tumbaco,304300.0,254.7,4,5,3,9
+"Casa/Dep en Venta de 155m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,296200.0,155.0,3,4,2,4
+"Casa/Dep en Venta de 278m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,488300.0,278.3,6,6,3,3
+"Casa/Dep en Venta de 275m² en Cumbayá, Quito",Quito,Cumbayá,479400.0,275.4,6,4,4,8
+"Casa/Dep en Venta de 134m² en Tumbaco, Quito",Quito,Tumbaco,159500.0,134.8,3,3,2,9
+"Casa/Dep en Venta de 216m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,328600.0,216.8,3,4,3,2
+"Casa/Dep en Venta de 256m² en Centro Histórico, Quito",Quito,Centro Histórico,277300.0,256.4,5,6,4,2
+"Casa/Dep en Venta de 110m² en Samborondón, Guayaquil",Guayaquil,Samborondón,167400.0,110.8,3,2,1,16
+"Casa/Dep en Venta de 227m² en Samborondón, Guayaquil",Guayaquil,Samborondón,387000.0,227.9,4,3,3,2
+"Casa/Dep en Venta de 226m² en Samborondón, Guayaquil",Guayaquil,Samborondón,281500.0,226.5,3,4,3,0
+"Casa/Dep en Venta de 78m² en El Batán, Quito",Quito,El Batán,106500.0,78.2,3,3,2,6
+"Casa/Dep en Venta de 175m² en La Carolina, Quito",Quito,La Carolina,257700.0,175.9,4,4,3,4
+"Casa/Dep en Venta de 209m² en González Suárez, Quito",Quito,González Suárez,338000.0,209.1,4,3,3,2
+"Casa/Dep en Venta de 201m² en La Carolina, Quito",Quito,La Carolina,341600.0,201.6,4,4,3,0
+"Casa/Dep en Venta de 148m² en El Batán, Quito",Quito,El Batán,194200.0,148.6,3,3,3,16
+"Casa/Dep en Venta de 142m² en Centro Histórico, Quito",Quito,Centro Histórico,97800.0,142.2,4,3,2,0
+"Casa/Dep en Venta de 161m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,183400.0,161.7,3,3,2,2
+"Casa/Dep en Venta de 131m² en Centro Histórico, Quito",Quito,Centro Histórico,105300.0,131.1,2,2,1,18
+"Casa/Dep en Venta de 246m² en La Carolina, Quito",Quito,La Carolina,359200.0,246.7,4,4,3,17
+"Casa/Dep en Venta de 142m² en La Carolina, Quito",Quito,La Carolina,187200.0,142.0,3,3,2,6
+"Casa/Dep en Venta de 182m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,317400.0,182.4,4,4,2,7
+"Casa/Dep en Venta de 225m² en Samborondón, Guayaquil",Guayaquil,Samborondón,349600.0,225.9,4,4,2,16
+"Casa/Dep en Venta de 158m² en Centro Histórico, Quito",Quito,Centro Histórico,165200.0,158.4,3,3,3,17
+"Casa/Dep en Venta de 119m² en González Suárez, Quito",Quito,González Suárez,153500.0,119.5,2,3,2,7
+"Casa/Dep en Venta de 237m² en González Suárez, Quito",Quito,González Suárez,356100.0,237.1,4,3,2,0
+"Casa/Dep en Venta de 74m² en Samborondón, Guayaquil",Guayaquil,Samborondón,120000.0,74.9,2,3,2,24
+"Casa/Dep en Venta de 223m² en El Batán, Quito",Quito,El Batán,298600.0,223.5,4,3,3,8
+"Casa/Dep en Venta de 168m² en Samborondón, Guayaquil",Guayaquil,Samborondón,260000.0,168.4,3,3,3,5
+"Casa/Dep en Venta de 84m² en González Suárez, Quito",Quito,González Suárez,106400.0,84.2,3,3,1,7
+"Casa/Dep en Venta de 140m² en Cumbayá, Quito",Quito,Cumbayá,266400.0,140.9,4,4,2,0
+"Casa/Dep en Venta de 145m² en González Suárez, Quito",Quito,González Suárez,235400.0,145.8,4,4,3,5
+"Casa/Dep en Venta de 168m² en La Carolina, Quito",Quito,La Carolina,228600.0,168.6,4,3,2,0
+"Casa/Dep en Venta de 198m² en González Suárez, Quito",Quito,González Suárez,295100.0,198.1,4,4,2,5
+"Casa/Dep en Venta de 262m² en Cumbayá, Quito",Quito,Cumbayá,321500.0,262.0,5,5,2,39
+"Casa/Dep en Venta de 141m² en El Batán, Quito",Quito,El Batán,214000.0,141.8,4,4,3,4
+"Casa/Dep en Venta de 168m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,187200.0,168.6,3,4,3,7
+"Casa/Dep en Venta de 147m² en Tumbaco, Quito",Quito,Tumbaco,187500.0,147.7,3,3,3,13
+"Casa/Dep en Venta de 143m² en Samborondón, Guayaquil",Guayaquil,Samborondón,209300.0,143.8,3,4,3,0
+"Casa/Dep en Venta de 80m² en La Carolina, Quito",Quito,La Carolina,134000.0,80.1,3,3,1,1
+"Casa/Dep en Venta de 150m² en Tumbaco, Quito",Quito,Tumbaco,214500.0,150.5,3,4,2,0
+"Casa/Dep en Venta de 169m² en El Batán, Quito",Quito,El Batán,253600.0,169.4,4,4,3,9
+"Casa/Dep en Venta de 95m² en Centro Histórico, Quito",Quito,Centro Histórico,80700.0,95.0,2,2,1,8
+"Casa/Dep en Venta de 235m² en Centro Histórico, Quito",Quito,Centro Histórico,199400.0,235.2,4,4,2,10
+"Casa/Dep en Venta de 137m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,105900.0,137.1,2,2,1,0
+"Casa/Dep en Venta de 142m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,107300.0,142.2,3,3,3,6
+"Casa/Dep en Venta de 233m² en Centro Histórico, Quito",Quito,Centro Histórico,211400.0,233.1,4,3,2,8
+"Casa/Dep en Venta de 242m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,210600.0,242.3,4,3,3,8
+"Casa/Dep en Venta de 120m² en Cumbayá, Quito",Quito,Cumbayá,206900.0,120.4,3,2,2,4
+"Casa/Dep en Venta de 214m² en El Batán, Quito",Quito,El Batán,215700.0,214.1,3,4,3,19
+"Casa/Dep en Venta de 139m² en Cumbayá, Quito",Quito,Cumbayá,263900.0,139.7,3,3,1,3
+"Casa/Dep en Venta de 236m² en Tumbaco, Quito",Quito,Tumbaco,309400.0,236.8,3,3,3,3
+"Casa/Dep en Venta de 115m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,110700.0,115.1,2,2,1,17
+"Casa/Dep en Venta de 153m² en El Batán, Quito",Quito,El Batán,178500.0,153.9,3,4,3,8
+"Casa/Dep en Venta de 274m² en González Suárez, Quito",Quito,González Suárez,500400.0,274.3,4,6,4,4
+"Casa/Dep en Venta de 116m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,258700.0,116.5,3,3,2,3
+"Casa/Dep en Venta de 152m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,258700.0,152.1,4,3,2,5
+"Casa/Dep en Venta de 151m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,171100.0,151.4,3,3,3,3
+"Casa/Dep en Venta de 157m² en Centro Histórico, Quito",Quito,Centro Histórico,100900.0,157.8,3,3,2,11
+"Casa/Dep en Venta de 158m² en Cumbayá, Quito",Quito,Cumbayá,267700.0,158.2,4,4,3,0
+"Casa/Dep en Venta de 195m² en Centro Histórico, Quito",Quito,Centro Histórico,134800.0,195.4,4,3,2,7
+"Casa/Dep en Venta de 104m² en El Batán, Quito",Quito,El Batán,140800.0,104.1,3,2,2,6
+"Casa/Dep en Venta de 116m² en Tumbaco, Quito",Quito,Tumbaco,139100.0,116.6,2,2,2,11
+"Casa/Dep en Venta de 275m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,232000.0,275.6,4,4,2,2
+"Casa/Dep en Venta de 131m² en La Carolina, Quito",Quito,La Carolina,206900.0,131.1,2,2,2,6
+"Casa/Dep en Venta de 91m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,85400.0,91.9,2,2,1,4
+"Casa/Dep en Venta de 246m² en Tumbaco, Quito",Quito,Tumbaco,304500.0,246.8,3,3,3,7
+"Casa/Dep en Venta de 112m² en Tumbaco, Quito",Quito,Tumbaco,112800.0,112.5,3,3,1,5
+"Casa/Dep en Venta de 196m² en Samborondón, Guayaquil",Guayaquil,Samborondón,289700.0,196.2,3,3,3,19
+"Casa/Dep en Venta de 198m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,202400.0,198.9,3,4,3,2
+"Casa/Dep en Venta de 116m² en Cumbayá, Quito",Quito,Cumbayá,192800.0,116.9,3,3,2,5
+"Casa/Dep en Venta de 138m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,320400.0,138.1,2,3,1,5
+"Casa/Dep en Venta de 163m² en Tumbaco, Quito",Quito,Tumbaco,202700.0,163.2,4,3,3,31
+"Casa/Dep en Venta de 159m² en Cumbayá, Quito",Quito,Cumbayá,290300.0,159.3,4,4,2,6
+"Casa/Dep en Venta de 167m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,289100.0,167.2,3,4,2,0
+"Casa/Dep en Venta de 255m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,394500.0,255.6,6,4,3,7
+"Casa/Dep en Venta de 164m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,188000.0,164.9,3,3,2,9
+"Casa/Dep en Venta de 137m² en Samborondón, Guayaquil",Guayaquil,Samborondón,166800.0,137.0,3,2,1,13
+"Casa/Dep en Venta de 140m² en Tumbaco, Quito",Quito,Tumbaco,174700.0,140.2,3,4,2,0
+"Casa/Dep en Venta de 243m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,306200.0,243.2,4,3,2,10
+"Casa/Dep en Venta de 231m² en Tumbaco, Quito",Quito,Tumbaco,309700.0,231.7,3,4,2,11
+"Casa/Dep en Venta de 271m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,230400.0,271.5,6,4,3,14
+"Casa/Dep en Venta de 194m² en Tumbaco, Quito",Quito,Tumbaco,211900.0,194.2,4,4,3,0
+"Casa/Dep en Venta de 98m² en El Batán, Quito",Quito,El Batán,135500.0,98.6,3,3,2,3
+"Casa/Dep en Venta de 171m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,220900.0,171.4,4,4,2,0
+"Casa/Dep en Venta de 223m² en El Batán, Quito",Quito,El Batán,367400.0,223.3,4,3,3,0
+"Casa/Dep en Venta de 180m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,227000.0,180.2,4,3,2,0
+"Casa/Dep en Venta de 138m² en González Suárez, Quito",Quito,González Suárez,235300.0,138.9,2,3,2,2
+"Casa/Dep en Venta de 143m² en Samborondón, Guayaquil",Guayaquil,Samborondón,220500.0,143.0,3,3,3,4
+"Casa/Dep en Venta de 225m² en Tumbaco, Quito",Quito,Tumbaco,309500.0,225.2,4,3,3,2
+"Casa/Dep en Venta de 181m² en Centro Histórico, Quito",Quito,Centro Histórico,148200.0,181.5,4,4,3,3
+"Casa/Dep en Venta de 202m² en El Batán, Quito",Quito,El Batán,341900.0,202.9,4,3,3,5
+"Casa/Dep en Venta de 111m² en González Suárez, Quito",Quito,González Suárez,144900.0,111.9,2,3,1,0
+"Casa/Dep en Venta de 237m² en Centro Histórico, Quito",Quito,Centro Histórico,200600.0,237.1,3,3,2,13
+"Casa/Dep en Venta de 288m² en Cumbayá, Quito",Quito,Cumbayá,430200.0,288.9,4,5,2,1
+"Casa/Dep en Venta de 246m² en Tumbaco, Quito",Quito,Tumbaco,338000.0,246.0,3,3,2,2
+"Casa/Dep en Venta de 127m² en Tumbaco, Quito",Quito,Tumbaco,138800.0,127.1,3,3,1,11
+"Casa/Dep en Venta de 181m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,153000.0,181.0,4,4,2,9
+"Casa/Dep en Venta de 266m² en Cumbayá, Quito",Quito,Cumbayá,487800.0,266.3,6,6,3,3
+"Casa/Dep en Venta de 150m² en Cumbayá, Quito",Quito,Cumbayá,230000.0,150.7,3,4,3,12
+"Casa/Dep en Venta de 250m² en Cumbayá, Quito",Quito,Cumbayá,429200.0,250.6,6,6,4,3
+"Casa/Dep en Venta de 133m² en Centro Histórico, Quito",Quito,Centro Histórico,80900.0,133.5,2,2,1,27
+"Casa/Dep en Venta de 260m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,235000.0,260.4,6,5,3,12
+"Casa/Dep en Venta de 189m² en Samborondón, Guayaquil",Guayaquil,Samborondón,149000.0,189.3,4,3,3,25
+"Casa/Dep en Venta de 181m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,249800.0,181.1,4,3,2,1
+"Casa/Dep en Venta de 106m² en Samborondón, Guayaquil",Guayaquil,Samborondón,179700.0,106.8,2,2,1,11
+"Casa/Dep en Venta de 160m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,273800.0,160.3,4,4,3,1
+"Casa/Dep en Venta de 239m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,341000.0,239.3,3,3,2,8
+"Casa/Dep en Venta de 136m² en Tumbaco, Quito",Quito,Tumbaco,136500.0,136.2,3,3,1,17
+"Casa/Dep en Venta de 107m² en La Carolina, Quito",Quito,La Carolina,126100.0,107.0,3,2,1,0
+"Casa/Dep en Venta de 187m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,198300.0,187.9,3,3,2,0
+"Casa/Dep en Venta de 118m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,194400.0,118.6,2,3,1,1
+"Casa/Dep en Venta de 69m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,64300.0,69.2,1,1,1,6
+"Casa/Dep en Venta de 181m² en Centro Histórico, Quito",Quito,Centro Histórico,167100.0,181.0,4,4,2,26
+"Casa/Dep en Venta de 194m² en La Carolina, Quito",Quito,La Carolina,270800.0,194.5,4,3,2,11
+"Casa/Dep en Venta de 192m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,220300.0,192.8,4,4,2,0
+"Casa/Dep en Venta de 137m² en Samborondón, Guayaquil",Guayaquil,Samborondón,238400.0,137.2,3,3,1,3
+"Casa/Dep en Venta de 109m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,130000.0,109.4,3,3,1,15
+"Casa/Dep en Venta de 228m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,221100.0,228.6,4,3,3,4
+"Casa/Dep en Venta de 168m² en Tumbaco, Quito",Quito,Tumbaco,278600.0,168.7,3,3,3,2
+"Casa/Dep en Venta de 173m² en González Suárez, Quito",Quito,González Suárez,295800.0,173.1,4,3,3,0
+"Casa/Dep en Venta de 183m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,212400.0,183.4,4,3,2,3
+"Casa/Dep en Venta de 144m² en Cumbayá, Quito",Quito,Cumbayá,246700.0,144.7,4,4,3,7
+"Casa/Dep en Venta de 293m² en Samborondón, Guayaquil",Guayaquil,Samborondón,343600.0,293.0,4,4,2,13
+"Casa/Dep en Venta de 165m² en Centro Histórico, Quito",Quito,Centro Histórico,150800.0,165.2,4,3,2,5
+"Casa/Dep en Venta de 224m² en La Carolina, Quito",Quito,La Carolina,303900.0,224.1,4,3,3,1
+"Casa/Dep en Venta de 170m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,296300.0,170.1,3,4,3,6
+"Casa/Dep en Venta de 98m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,190200.0,98.8,2,2,1,0
+"Casa/Dep en Venta de 143m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,228800.0,143.7,3,3,3,6
+"Casa/Dep en Venta de 174m² en Samborondón, Guayaquil",Guayaquil,Samborondón,289800.0,174.7,4,4,2,4
+"Casa/Dep en Venta de 205m² en La Carolina, Quito",Quito,La Carolina,259600.0,205.5,3,4,3,25
+"Casa/Dep en Venta de 202m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,309300.0,202.6,4,4,2,4
+"Casa/Dep en Venta de 190m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,209500.0,190.4,4,3,3,31
+"Casa/Dep en Venta de 145m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,122900.0,145.6,3,4,2,23
+"Casa/Dep en Venta de 220m² en González Suárez, Quito",Quito,González Suárez,320600.0,220.4,4,3,3,11
+"Casa/Dep en Venta de 113m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,167500.0,113.9,3,3,2,2
+"Casa/Dep en Venta de 270m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,353500.0,270.8,5,6,4,6
+"Casa/Dep en Venta de 167m² en Tumbaco, Quito",Quito,Tumbaco,191300.0,167.0,4,4,2,8
+"Casa/Dep en Venta de 120m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,192700.0,120.8,3,3,2,10
+"Casa/Dep en Venta de 130m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,115000.0,130.7,2,3,2,5
+"Casa/Dep en Venta de 203m² en Samborondón, Guayaquil",Guayaquil,Samborondón,253900.0,203.1,4,4,2,4
+"Casa/Dep en Venta de 99m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,84400.0,99.7,2,2,1,20
+"Casa/Dep en Venta de 221m² en El Batán, Quito",Quito,El Batán,301500.0,221.6,3,4,3,12
+"Casa/Dep en Venta de 100m² en La Carolina, Quito",Quito,La Carolina,126600.0,100.6,3,3,1,8
+"Casa/Dep en Venta de 144m² en Samborondón, Guayaquil",Guayaquil,Samborondón,180300.0,144.7,3,4,2,0
+"Casa/Dep en Venta de 182m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,342800.0,182.1,4,3,3,0
+"Casa/Dep en Venta de 168m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,116500.0,168.1,4,4,3,24
+"Casa/Dep en Venta de 351m² en Centro Histórico, Quito",Quito,Centro Histórico,294000.0,351.9,4,5,4,5
+"Casa/Dep en Venta de 251m² en Centro Histórico, Quito",Quito,Centro Histórico,236200.0,251.7,6,6,2,17
+"Casa/Dep en Venta de 155m² en La Carolina, Quito",Quito,La Carolina,233700.0,155.3,3,4,2,5
+"Casa/Dep en Venta de 110m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,104700.0,110.5,2,3,2,3
+"Casa/Dep en Venta de 210m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,372800.0,210.8,3,3,2,0
+"Casa/Dep en Venta de 231m² en Samborondón, Guayaquil",Guayaquil,Samborondón,321600.0,231.2,3,3,3,13
+"Casa/Dep en Venta de 251m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,280800.0,251.7,5,5,4,11
+"Casa/Dep en Venta de 209m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,188400.0,209.2,3,4,2,6
+"Casa/Dep en Venta de 97m² en El Batán, Quito",Quito,El Batán,143700.0,97.4,2,3,2,1
+"Casa/Dep en Venta de 71m² en La Carolina, Quito",Quito,La Carolina,77400.0,71.0,2,2,2,28
+"Casa/Dep en Venta de 123m² en Samborondón, Guayaquil",Guayaquil,Samborondón,222800.0,123.6,3,3,1,2
+"Casa/Dep en Venta de 240m² en Centro Histórico, Quito",Quito,Centro Histórico,188800.0,240.2,4,4,3,4
+"Casa/Dep en Venta de 115m² en La Carolina, Quito",Quito,La Carolina,148800.0,115.8,3,3,2,13
+"Casa/Dep en Venta de 118m² en La Carolina, Quito",Quito,La Carolina,179400.0,118.6,3,2,1,13
+"Casa/Dep en Venta de 95m² en Cumbayá, Quito",Quito,Cumbayá,188800.0,95.5,3,2,1,0
+"Casa/Dep en Venta de 206m² en Tumbaco, Quito",Quito,Tumbaco,278200.0,206.3,3,3,3,12
+"Casa/Dep en Venta de 186m² en Centro Histórico, Quito",Quito,Centro Histórico,133000.0,186.9,4,4,2,2
+"Casa/Dep en Venta de 237m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,400000.0,237.9,3,3,3,11
+"Casa/Dep en Venta de 126m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,254500.0,126.7,2,2,2,3
+"Casa/Dep en Venta de 254m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,250500.0,254.9,5,5,2,20
+"Casa/Dep en Venta de 248m² en Tumbaco, Quito",Quito,Tumbaco,305300.0,248.8,3,4,2,2
+"Casa/Dep en Venta de 218m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,253600.0,218.0,3,3,3,3
+"Casa/Dep en Venta de 250m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,191500.0,250.0,4,5,2,23
+"Casa/Dep en Venta de 175m² en Samborondón, Guayaquil",Guayaquil,Samborondón,236600.0,175.2,4,4,3,12
+"Casa/Dep en Venta de 296m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,267200.0,296.0,5,6,2,14
+"Casa/Dep en Venta de 211m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,259100.0,211.6,4,4,2,9
+"Casa/Dep en Venta de 182m² en González Suárez, Quito",Quito,González Suárez,289700.0,182.6,4,3,2,1
+"Casa/Dep en Venta de 290m² en Samborondón, Guayaquil",Guayaquil,Samborondón,399600.0,290.5,4,4,3,1
+"Casa/Dep en Venta de 124m² en González Suárez, Quito",Quito,González Suárez,161000.0,124.1,3,3,1,8
+"Casa/Dep en Venta de 236m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,231300.0,236.2,4,4,2,6
+"Casa/Dep en Venta de 142m² en El Batán, Quito",Quito,El Batán,226800.0,142.5,3,3,3,2
+"Casa/Dep en Venta de 103m² en Samborondón, Guayaquil",Guayaquil,Samborondón,137500.0,103.0,2,2,2,10
+"Casa/Dep en Venta de 170m² en El Batán, Quito",Quito,El Batán,275800.0,170.4,3,4,2,2
+"Casa/Dep en Venta de 141m² en El Batán, Quito",Quito,El Batán,214400.0,141.6,3,3,3,0
+"Casa/Dep en Venta de 170m² en Centro Histórico, Quito",Quito,Centro Histórico,127300.0,170.3,4,4,3,8
+"Casa/Dep en Venta de 216m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,335100.0,216.5,4,4,2,11
+"Casa/Dep en Venta de 148m² en La Carolina, Quito",Quito,La Carolina,191100.0,148.5,3,3,3,4
+"Casa/Dep en Venta de 185m² en Cumbayá, Quito",Quito,Cumbayá,378900.0,185.1,4,3,3,0
+"Casa/Dep en Venta de 143m² en González Suárez, Quito",Quito,González Suárez,186800.0,143.9,4,4,2,4
+"Casa/Dep en Venta de 97m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,76700.0,97.6,2,3,2,1
+"Casa/Dep en Venta de 171m² en Centro Histórico, Quito",Quito,Centro Histórico,148600.0,171.9,3,4,2,8
+"Casa/Dep en Venta de 207m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,373200.0,207.3,3,3,3,0
+"Casa/Dep en Venta de 192m² en Cumbayá, Quito",Quito,Cumbayá,372600.0,192.4,4,4,3,7
+"Casa/Dep en Venta de 277m² en La Carolina, Quito",Quito,La Carolina,468500.0,277.4,5,4,2,0
+"Casa/Dep en Venta de 256m² en Tumbaco, Quito",Quito,Tumbaco,387300.0,256.5,6,6,4,3
+"Casa/Dep en Venta de 102m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,102400.0,102.2,3,2,1,23
+"Casa/Dep en Venta de 198m² en Tumbaco, Quito",Quito,Tumbaco,227600.0,198.7,3,3,3,9
+"Casa/Dep en Venta de 321m² en Centro Histórico, Quito",Quito,Centro Histórico,284600.0,321.1,5,6,4,6
+"Casa/Dep en Venta de 98m² en González Suárez, Quito",Quito,González Suárez,141700.0,98.9,3,3,2,4
+"Casa/Dep en Venta de 209m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,147700.0,209.1,4,3,2,30
+"Casa/Dep en Venta de 171m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,196000.0,171.1,3,4,2,19
+"Casa/Dep en Venta de 153m² en González Suárez, Quito",Quito,González Suárez,227800.0,153.4,3,3,3,10
+"Casa/Dep en Venta de 174m² en Tumbaco, Quito",Quito,Tumbaco,242100.0,174.5,4,4,2,8
+"Casa/Dep en Venta de 125m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,132800.0,125.9,3,3,2,1
+"Casa/Dep en Venta de 220m² en El Batán, Quito",Quito,El Batán,289700.0,220.1,3,3,3,2
+"Casa/Dep en Venta de 130m² en Centro Histórico, Quito",Quito,Centro Histórico,145200.0,130.8,3,3,2,0
+"Casa/Dep en Venta de 161m² en El Batán, Quito",Quito,El Batán,219600.0,161.4,4,3,2,8
+"Casa/Dep en Venta de 211m² en El Batán, Quito",Quito,El Batán,220000.0,211.4,4,3,3,21
+"Casa/Dep en Venta de 193m² en Tumbaco, Quito",Quito,Tumbaco,252500.0,193.8,4,3,3,10
+"Casa/Dep en Venta de 235m² en Centro Histórico, Quito",Quito,Centro Histórico,241000.0,235.8,3,4,3,2
+"Casa/Dep en Venta de 163m² en Cumbayá, Quito",Quito,Cumbayá,324600.0,163.2,3,3,3,12
+"Casa/Dep en Venta de 136m² en Cumbayá, Quito",Quito,Cumbayá,167500.0,136.8,2,2,2,9
+"Casa/Dep en Venta de 85m² en El Batán, Quito",Quito,El Batán,91100.0,85.2,2,3,1,22
+"Casa/Dep en Venta de 93m² en González Suárez, Quito",Quito,González Suárez,130800.0,93.6,3,2,2,2
+"Casa/Dep en Venta de 180m² en La Carolina, Quito",Quito,La Carolina,235800.0,180.3,4,4,2,20
+"Casa/Dep en Venta de 157m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,179700.0,157.0,3,3,3,8
+"Casa/Dep en Venta de 150m² en Samborondón, Guayaquil",Guayaquil,Samborondón,260800.0,150.5,3,4,2,0
+"Casa/Dep en Venta de 122m² en La Carolina, Quito",Quito,La Carolina,153800.0,122.9,2,2,2,13
+"Casa/Dep en Venta de 202m² en La Carolina, Quito",Quito,La Carolina,311900.0,202.5,3,3,3,2
+"Casa/Dep en Venta de 97m² en Cumbayá, Quito",Quito,Cumbayá,173800.0,97.6,2,3,1,3
+"Casa/Dep en Venta de 151m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,218300.0,151.9,3,4,2,2
+"Casa/Dep en Venta de 108m² en Tumbaco, Quito",Quito,Tumbaco,133700.0,108.9,3,2,1,22
+"Casa/Dep en Venta de 82m² en La Carolina, Quito",Quito,La Carolina,127500.0,82.1,3,3,2,1
+"Casa/Dep en Venta de 242m² en González Suárez, Quito",Quito,González Suárez,317600.0,242.4,4,3,2,15
+"Casa/Dep en Venta de 310m² en La Carolina, Quito",Quito,La Carolina,412800.0,310.5,6,6,2,1
+"Casa/Dep en Venta de 217m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,228200.0,217.6,3,4,3,2
+"Casa/Dep en Venta de 326m² en Tumbaco, Quito",Quito,Tumbaco,420600.0,326.2,6,6,2,0
+"Casa/Dep en Venta de 209m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,375600.0,209.4,4,3,2,0
+"Casa/Dep en Venta de 102m² en La Carolina, Quito",Quito,La Carolina,148900.0,102.5,2,2,2,2
+"Casa/Dep en Venta de 145m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,187200.0,145.0,4,4,2,1
+"Casa/Dep en Venta de 210m² en Tumbaco, Quito",Quito,Tumbaco,320600.0,210.9,4,3,2,4
+"Casa/Dep en Venta de 76m² en Centro Histórico, Quito",Quito,Centro Histórico,65100.0,76.8,3,2,2,9
+"Casa/Dep en Venta de 111m² en Tumbaco, Quito",Quito,Tumbaco,140600.0,111.6,2,3,2,16
+"Casa/Dep en Venta de 134m² en La Carolina, Quito",Quito,La Carolina,172900.0,134.8,2,3,1,9
+"Casa/Dep en Venta de 112m² en Centro Histórico, Quito",Quito,Centro Histórico,66100.0,112.2,2,3,2,1
+"Casa/Dep en Venta de 197m² en González Suárez, Quito",Quito,González Suárez,286300.0,197.5,4,4,3,12
+"Casa/Dep en Venta de 136m² en Centro Histórico, Quito",Quito,Centro Histórico,97300.0,136.0,2,3,1,7
+"Casa/Dep en Venta de 241m² en Cumbayá, Quito",Quito,Cumbayá,444400.0,241.7,3,3,3,10
+"Casa/Dep en Venta de 188m² en Tumbaco, Quito",Quito,Tumbaco,171000.0,188.7,3,3,3,14
+"Casa/Dep en Venta de 168m² en Centro Histórico, Quito",Quito,Centro Histórico,159900.0,168.2,4,4,3,4
+"Casa/Dep en Venta de 161m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,275700.0,161.6,3,3,3,5
+"Casa/Dep en Venta de 139m² en La Carolina, Quito",Quito,La Carolina,169700.0,139.5,3,2,1,18
+"Casa/Dep en Venta de 250m² en González Suárez, Quito",Quito,González Suárez,327300.0,250.2,6,5,3,27
+"Casa/Dep en Venta de 146m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,145000.0,146.8,3,4,3,3
+"Casa/Dep en Venta de 90m² en Tumbaco, Quito",Quito,Tumbaco,123100.0,90.2,2,2,1,3
+"Casa/Dep en Venta de 143m² en Puerto Santa Ana, Guayaquil",Guayaquil,Puerto Santa Ana,238500.0,143.3,3,4,2,4
+"Casa/Dep en Venta de 246m² en Samborondón, Guayaquil",Guayaquil,Samborondón,469800.0,246.6,3,3,2,0
+"Casa/Dep en Venta de 226m² en González Suárez, Quito",Quito,González Suárez,311800.0,226.6,3,3,3,0
+"Casa/Dep en Venta de 222m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,318000.0,222.5,4,3,3,0
+"Casa/Dep en Venta de 211m² en González Suárez, Quito",Quito,González Suárez,356000.0,211.8,4,3,2,11
+"Casa/Dep en Venta de 185m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,260700.0,185.5,4,4,2,8
+"Casa/Dep en Venta de 200m² en La Carolina, Quito",Quito,La Carolina,298100.0,200.1,4,4,3,11
+"Casa/Dep en Venta de 123m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,148100.0,123.2,2,3,1,10
+"Casa/Dep en Venta de 131m² en Valle de los Chillos, Quito",Quito,Valle de los Chillos,117200.0,131.9,2,2,1,2
+"Casa/Dep en Venta de 157m² en Cumbayá, Quito",Quito,Cumbayá,205600.0,157.3,3,3,2,5
+"Casa/Dep en Venta de 129m² en El Batán, Quito",Quito,El Batán,187900.0,129.0,3,3,1,8
+"Casa/Dep en Venta de 141m² en González Suárez, Quito",Quito,González Suárez,239200.0,141.5,3,4,2,2
+"Casa/Dep en Venta de 191m² en Kennedy Norte, Guayaquil",Guayaquil,Kennedy Norte,266100.0,191.4,3,4,3,2
+"Casa/Dep en Venta de 222m² en Samborondón, Guayaquil",Guayaquil,Samborondón,291200.0,222.4,3,4,2,7
+"Casa/Dep en Venta de 242m² en Centro Histórico, Quito",Quito,Centro Histórico,168700.0,242.5,3,3,2,12
+"Casa/Dep en Venta de 139m² en Centro Histórico, Quito",Quito,Centro Histórico,123100.0,139.5,2,3,1,9
+"Casa/Dep en Venta de 124m² en El Batán, Quito",Quito,El Batán,136900.0,124.3,3,3,2,2
+"Casa/Dep en Venta de 203m² en La Carolina, Quito",Quito,La Carolina,246800.0,203.9,4,3,3,8
+"Casa/Dep en Venta de 228m² en Tumbaco, Quito",Quito,Tumbaco,287600.0,228.8,4,4,2,3
