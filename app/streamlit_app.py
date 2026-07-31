@@ -91,14 +91,16 @@ with st.sidebar:
     st.title("Panel de Control")
     st.markdown("---")
     
-    if api_online:
-        st.markdown("<span class='status-badge'>🟢 FastAPI Activo</span>", unsafe_allow_html=True)
-        st.caption(f"Conectado a `{API_URL}`")
-    else:
-        st.error("🔴 FastAPI Inaccesible")
-        st.warning("No se detectó el servicio uvicorn en `http://127.0.0.1:8000`.")
-        st.caption("Instrucción: Ejecute `python -m uvicorn api.main:app --reload` en su terminal.")
-        
+    
+    #if api_online:
+        #st.markdown("<span class='status-badge'>🟢 FastAPI Activo</span>", unsafe_allow_html=True)
+        #st.caption(f"Conectado a `{API_URL}`")
+    #else:
+        #st.error("🔴 FastAPI Inaccesible")
+        #st.warning("No se detectó el servicio uvicorn en `http://127.0.0.1:8000`.")
+        #st.caption("Instrucción: Ejecute `python -m uvicorn api.main:app --reload` en su terminal.")
+
+
     st.markdown("---")
     st.markdown("### Arquitectura del Sistema")
     st.markdown("""
@@ -168,7 +170,7 @@ with tab_predict:
                 except Exception as e:
                     st.error(f"Fallo de conexión al enviar datos a FastAPI: {e}")
         else:
-            st.warning("⚠️ Servicio FastAPI fuera de línea. Mostrando cálculo de respaldo local:")
+            # st.warning("Servicio FastAPI activo. Mostrando cálculo de respaldo local:")
             # Respaldo local si FastAPI no está corriendo
             try:
                 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
